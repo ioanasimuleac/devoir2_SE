@@ -1,3 +1,5 @@
+#Simuleac Ioana-Veronica
+
 import time
 import random
 import logging
