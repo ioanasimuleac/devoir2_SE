@@ -1,3 +1,5 @@
+#Simuleac Ioana-Veronica
+
 import sys, threading, logging, os
 import multiprocessing
 from multiprocessing import Process, Queue, current_process, freeze_support
